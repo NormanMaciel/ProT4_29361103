@@ -46,7 +46,7 @@ Para ejecutar este proyecto, asegúrate de tener instalado:
 
 - Node.js
 - MySQL (o cualquier base de datos SQL compatible)
--npm (Node Package Manager)
+- npm (Node Package Manager)
 
 ## Uso
 Una vez que el servidor esté en funcionamiento, podrás acceder a la API a través de las rutas descritas anteriormente utilizando un cliente HTTP como Postman o curl en puerto 4000.
